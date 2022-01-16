@@ -41,7 +41,7 @@ public class Worker {
 	}
 
 	public Double getBaseSalary() {
-		return baseSalary;
+		return this.baseSalary;
 	}
 
 	public void setBaseSalary(Double baseSalary) {
